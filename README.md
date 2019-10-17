@@ -5,7 +5,7 @@ Submit a PR solving Hi! in a different language.
 
 ## Rules
 
-* Your program should print "**Hi!**"
+* Your program should print "**Hi!**" or "**Hello**"
 * Create a file in `languages` with the language name as the file name (followed by the language file extension)
 * Note:  If it's spoken language use the last two or three charcters of language code. For short codes: (https://www.science.co.il/language/Codes.php)[https://www.science.co.il/language/Codes.php]
 
