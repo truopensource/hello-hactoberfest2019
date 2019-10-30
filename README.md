@@ -34,6 +34,15 @@ Thanks goes to these wonderful people 😃
      <a href="https://github.com/truopensource/hello-hactoberfest2019/commits?author=dipakparmar" title="Documentation">📖</a> 
   
    </td>
+    <td align="center">
+     <a href="https://github.com/boywigh">
+      <img src="ttps://avatars3.githubusercontent.com/u/18537827?s=460&v=3" width="100px;" alt="boywigh"/>
+      <br />
+      <sub>
+       <b>Dipak Parmar</b>
+      </sub>
+     </a><br />
+   </td>
  </tr>
  </table>
  <!-- ALL-CONTRIBUTORS-LIST:END - Do not remove or modify this section -->
