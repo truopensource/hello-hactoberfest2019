@@ -1,9 +1,9 @@
 import time
 
 def printOut(m):
-    l = list(m)
-    for i in range(0, len(l)):
-        print(l[i], end='', flush=True)
+    main = list(m)
+    for x in range(0, len(main)):
+        print(l[x], end='', flush=True)
         time.sleep(0.01)
     print()
 	
